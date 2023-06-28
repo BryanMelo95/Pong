@@ -14,3 +14,5 @@ Faça este curso de Programação em Lógica e:
 - Aprenda a trabalhar com variáveis ​​e funções
 - Crie um jogo completo, com animações, controles, sons e pontuação
 - Aprenda a usar código compartilhado no Github em seus projetos
+
+[Bryan Silva de Melo - Course Programming Logic_ Get Started in Logic with Pong Game and Javascript - Alura.pdf](https://github.com/BryanMelo95/Pong/files/11899633/Bryan.Silva.de.Melo.-.Course.Programming.Logic_.Get.Started.in.Logic.with.Pong.Game.and.Javascript.-.Alura.pdf)
